@@ -1,1 +1,1 @@
-# nimrat_python_queries
+# python_queries
