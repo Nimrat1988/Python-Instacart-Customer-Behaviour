@@ -25,6 +25,7 @@ This project analyzes Instacart’s open-source grocery shopping data to uncover
 
 
 
+
 🔍**Analysis Highlights**
   - Sundays and Mondays are the busiest days, 9am to 5pm see the highest activity.
   - Midday shows the highest spending, indicating optimal timing for premium product ads.
